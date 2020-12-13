@@ -17,12 +17,13 @@ Hi, I'm Lorenzo! I'm 19 years old and <b>I study IT</b> in Venice (<b>Italy</b>)
 <img align="left" alt="SQL" title="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img align="left" alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left" alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-
+<img align="left" alt="Maven" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png">
 <br><br>
 
 ### 🔧 Tools I use:
 <img align="left" alt="Google chrome" title="Google chrome" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">
 <img align="left" alt="Firefox" title="Firefox" width="30px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png">
+<img align="left" alt="Linux" title="Google chrome" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <img align="left" alt="Atom" title="Atom" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
