@@ -1,5 +1,5 @@
 ## Hi, I'm Lorenzo Vaccher - aka LOR3XS 👋🏻🤙🏻
-Hi, I'm Lorenzo! I'm 20 years old and <b>I study IT</b> in Venice (<b>Italy</b>). My passion is computer science and I like to apply myself to every field of it : security, programming, Websites, networks, design, artificial intelligence, machine learning and so on! I like to contribute to Open Source projects but I am also available to work on private projects. 🤟🏻 🤘🏻
+Hi, I'm Lorenzo! I'm 21 years old and <b>I study Data Science</b> in Venice (<b>Italy</b>). My passion is computer science and I like to apply myself to every field of it : security, programming, Websites, networks, design, artificial intelligence, machine learning and so on! I like to contribute to Open Source projects but I am also available to work on private projects. 🤟🏻 🤘🏻
 
 - 🔭 I’m currently working on various websites
 - 🌱 I’m currently learning everything I can
